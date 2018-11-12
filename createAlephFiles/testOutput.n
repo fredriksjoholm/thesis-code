@@ -1,0 +1,5 @@
+accept(n1).
+accept(n2).
+accept(n3).
+accept(n4).
+accept(n5).
